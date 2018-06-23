@@ -1,0 +1,10 @@
+{
+    "name": "aspire/test",
+    "authors": [
+        {
+            "name": "aspire-fengyi",
+            "email": "742249259@qq.com"
+        }
+    ],
+    "require": {}
+}
