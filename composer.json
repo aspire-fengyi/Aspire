@@ -1,14 +1,21 @@
 {
     "name": "aspire/test",
+    "description": "this is a test",
+    "keywords": [
+        "aspire","test"
+    ],
+    "homepage": "http://www.mylaravel.cn",
+    "license": "MIT",
     "authors": [
         {
             "name": "aspire-fengyi",
             "email": "742249259@qq.com"
-        }
+        }  
     ],
     "require": {},
     "autoload": {
         "psr-4": {
             "Aspire\\Test\\":"src/"
         }
+    }
 }
