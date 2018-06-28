@@ -6,5 +6,9 @@
             "email": "742249259@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aspire\\Test\\":"src/"
+        }
 }
